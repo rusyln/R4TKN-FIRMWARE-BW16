@@ -65,7 +65,7 @@ Your support means a lot! If you find this project useful, please consider givin
    - Under `COM`, select the correct port for your connected **BW16**.  
    - Leave the rest of the settings as default.
 
-3. **Put BW16 in Flash Mode & Start Flashing**  
+3. **Put BW16 in Flash Mode & Start Flashing(If the bw16 have existing firmware please use the erase button then reflash)**  
    - If your BW16 is **not already in flash mode**, do the following:  
      - Hold the **BOOT** button.  
      - While holding BOOT, **press and release RESET**.  
