@@ -54,9 +54,35 @@ A firmware implementation for the R4TKN BW16 module featuring RTL8720DN Wi-Fi ch
 
 
 
-
-
 ## Installation
+![Flasher](https://github.com/rusyln/R4TKN-FIRMWARE-BW16/blob/master/Screenshots/Flasher.png)
+1. **Run as Administrator**  
+   - Right-click the **R4TKN FLASHER** and select `Run as administrator`.
 
+2. **Configure Serial Port**  
+   - Go to the `COM Port` section.  
+   - Under `COM`, select the correct port for your connected **BW16**.  
+   - Leave the rest of the settings as default.
 
-## Usage
+3. **Put BW16 in Flash Mode & Start Flashing**  
+   - If your BW16 is **not already in flash mode**, do the following:  
+     - Hold the **BOOT** button.  
+     - While holding BOOT, **press and release RESET**.  
+     - Release the BOOT button.  
+     - The BW16 is now in **flash mode**.  
+   - Now click the `Run FLASH` button to flash the firmware.
+
+4. **TFT Display Configuration Note**  
+   - The 1.8" ST7735 TFT display has multiple color configurations available.  
+   - If you need a specific firmware binary for your display's color configuration, please let me know and I can provide the appropriate firmware version.
+
+5. **Completion**  
+   - Wait for the flashing process to complete (progress bar will show status).  
+   - Once done, reset your BW16 to boot into the new firmware.
+
+## 📬 Support / Collaboration
+
+Got questions, ideas, or want to collaborate?  
+Drop an email at **web.r4tkn@gmail.com**
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://coff.ee/rusn)
