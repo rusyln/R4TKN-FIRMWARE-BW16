@@ -1,6 +1,6 @@
 # RTL8720DN + 1.8" TFT + 3 Buttons - R4TKN BW16 Dual-Band Wi-Fi Deauther Firmware
 
-![Project Banner](https://github.com/rusyln/R4TKN-FIRMWARE-BW16/blob/master/Screenshots/rtl8720dn-bw16_0.png)
+![Project Banner](https://github.com/rusyln/R4TKN-FIRMWARE-BW16/blob/master/Screenshots/Banner.png)
 
 A firmware implementation for the R4TKN BW16 module featuring RTL8720DN Wi-Fi chip, ST7735 1.8" TFT display, and 3-button interface for Wi-Fi deauthentication functionality.
 
