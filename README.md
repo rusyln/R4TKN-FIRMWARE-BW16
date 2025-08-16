@@ -51,7 +51,8 @@ A firmware implementation for the R4TKN BW16 module featuring RTL8720DN Wi-Fi ch
 |  OK SELECT   | PB3    | 
 | DOWN  | PB2      | 
 
-
+## ⭐ If You Like This Project...
+Your support means a lot! If you find this project useful, please consider giving it a star on GitHub. It helps others discover the project and motivates further development.
 
 
 ## Installation
@@ -84,5 +85,7 @@ A firmware implementation for the R4TKN BW16 module featuring RTL8720DN Wi-Fi ch
 
 Got questions, ideas, or want to collaborate?  
 Drop an email at **web.r4tkn@gmail.com**
+
+[Support on Throne](https://throne.com/r4tkn)
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](http://coff.ee/rusn)
