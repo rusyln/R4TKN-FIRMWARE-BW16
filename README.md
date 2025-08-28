@@ -4,6 +4,12 @@
 
 A firmware implementation for the R4TKN BW16 module featuring RTL8720DN Wi-Fi chip, ST7735 1.8" TFT display, and 3-button interface for Wi-Fi deauthentication functionality.
 
+## Im Sending New Builds here
+# Check Some Updates ? Join our Telegram 
+https://t.me/+oQWjdRF1wUQyMjBl
+
+
+
 ## Hardware Components
 - **BW16 Module** with RTL8720DN (Dual-Band Wi-Fi)
 - **1.8" ST7735 TFT Display** (128x160 resolution)
