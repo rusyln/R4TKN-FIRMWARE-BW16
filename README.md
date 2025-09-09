@@ -17,11 +17,18 @@ https://t.me/+oQWjdRF1wUQyMjBl
 
 ## Features
 - Dual-band 2.4GHz/5GHz Wi-Fi deauthentication
-- TARGETED (PER CLIENT / PER STATION)
+- TARGETED (PER CLIENT)
 - RANDOM SSID
 - BEACON + DEAUTH
 - Interactive TFT display interface
 - 3-button navigation control
+
+V3 
+## V3 Features
+- TARGETED - (PER STATION)
+- BATTERY FUEL UI INDICATOR
+- More .. 
+
 
 ## Acknowledgements
  - [tesa-klebeband](https://github.com/tesa-klebeband/RTL8720dn-Deauther)
