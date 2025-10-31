@@ -70,6 +70,12 @@ Your support means a lot! If you find this project useful, please consider givin
 
 ## Installation
 ![Flasher](https://github.com/rusyln/R4TKN-FIRMWARE-BW16/blob/master/Screenshots/Flasher.png)
+
+## ⚠️ Security notice
+
+**The flasher is an unsigned Windows executable (`.exe`) and may be flagged by antivirus software.**
+
+
 1. **Run as Administrator**  
    - Right-click the **R4TKN FLASHER** and select `Run as administrator`.
 
