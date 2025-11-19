@@ -8,6 +8,7 @@ A firmware implementation for the R4TKN BW16 module featuring RTL8720DN Wi-Fi ch
 # Check Some Updates ? Join our Telegram 
 https://t.me/+oQWjdRF1wUQyMjBl
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X71M0J84)
 
 
 ## Hardware Components
