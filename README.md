@@ -69,7 +69,11 @@ V3
 Your support means a lot! If you find this project useful, please consider giving it a star on GitHub. It helps others discover the project and motivates further development.
 
 
-## Installation
+## Online Flasher
+
+Online Flasher - [Ameba Flasher Online](https://flasher.rusprojects.com/)
+
+## Offline Installation
 ![Flasher](https://github.com/rusyln/R4TKN-FIRMWARE-BW16/blob/master/Screenshots/Flasher.png)
 
 ## ⚠️ Security notice
