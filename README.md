@@ -71,7 +71,7 @@ Your support means a lot! If you find this project useful, please consider givin
 
 ## Online Flasher
 
-Online Flasher - [Ameba Flasher Online](https://flasher.rusprojects.com/)
+Online Flasher - [Ameba Flasher Online](https://flasher.sigbinlabs.com/)
 SigBin Labs - [SigBin Labs ](https://sigbinlabs.com/)
 
 ## Offline Installation
